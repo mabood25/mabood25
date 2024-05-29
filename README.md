@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manuel Abood MBA, MSc, Eng
-- 👀 I’m interested in leveraging machine learning and visualization for my business projects.
-- 🌱 I’m currently learning new techniques ML, deep learning to apply them effectively in business contexts.
+- 👀 I’m interested in leveraging machine learning and visualization techniques.
+- 🌱 I’m currently learning new techniques to apply them effectively in business contexts.
 - 💞️ I’m looking to collaborate on projects that integrate AI into business strategy and product development.
 - 📫 How to reach me manuelabood@gmail.com or in/manuelabood
 - ⚡ Sports: Hiking, Surfing and Brazilian Jiu Jitsu
